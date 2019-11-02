@@ -46,7 +46,7 @@ career-profile:
 
 education:
     - degree: Bsc in Computer Science
-      university: University of London
+      university: University Anhembi Morumbi
       time: 2012 - 2017
       details: |
         At the begining of my Degree in a University, I accumulated University and technical course. There was hard journey, but but prepared me for what would come. 
@@ -69,18 +69,18 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Traine Development
-      time: 2012 - 2014
-      company: Sciensa, London
+    - role: Backend Developer Junior
+      time: 2018 - 2018
+      company: Sciensa, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I've decided to Focused on Back end tecnologies. I'm add knowledge about Rancher and run Docker machines.  
+    
 
-          - Bullet point
-          - Bullet point
+    - role: Traine Development
+      time: 2016 - 2018
+      company: Sciensa, Brazil
+      details: |
+        Begining of my carrier as back end Developer with tecnologies like mongodb, aws, docker, jenkins, github, rabbitmq and mulesoft.
 
 # projects:
 #     title: Projects
