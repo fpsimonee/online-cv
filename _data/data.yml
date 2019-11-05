@@ -60,14 +60,13 @@ experiences:
       time: 2019 - Present
       company: Linx, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I started with a new tool of Integration, apache NIFI, it's a interesting tool. I did add some knowledge about Amazon tecnologies like SQS, S3 Buckets and any other tecnologies 
+        inside setup Amazon.  
 
-          - Bullet point
-          - Bullet point
+          - Apache Nifi
+          - Amazon SQS
+          - Amazon EC2
+          - Amazon IAM ( basic knowledge )
 
     - role: Backend Developer Junior
       time: 2018 - 2018
